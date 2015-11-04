@@ -18,7 +18,7 @@
        
        2.2 在master中找到spark目录，敲入如下代码：
        
-             ./spark-submit\
+             ./bin/spark-submit\
              
                      --class org.apache.spark.examples.JavaSparkPi\
                      
